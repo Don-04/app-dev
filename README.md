@@ -1,2 +1,6 @@
 # app-dev
-My first repository
+
+- **Vinland Saga**
+- **Psycho Pass**
+- **Made in Abyss**
+  
